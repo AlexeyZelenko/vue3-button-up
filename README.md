@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://www.npmjs.com/package/vue-button-up">
-      <img alt="codebeat badge" src="https://img.shields.io/badge/version-1.0.3%20-44cc11.svg" />
+      <img alt="codebeat badge" src="https://img.shields.io/badge/version-1.0.5%20-44cc11.svg" />
     </a>
     <a href="https://www.npmjs.com/package/tiptap-vuetify">
       <img alt="codebeat badge" src="https://img.shields.io/badge/license-ISC%20-44cc11.svg" />
@@ -96,11 +96,9 @@ export default {
 ```
 <Vue3DownUpButton >
     <template #top>
-        <img
-            :src="require(`@/assets/img/buttonUp.png`)"
-        >
+          &uarr;
     </template>
-  </Vue3DownUpButton>
+</Vue3DownUpButton>
 
 <script>
     import Vue3DownUpButton from 'vuejs3-up-down-button'
@@ -112,7 +110,29 @@ export default {
 }
 </script>
 ```
+If you only need to go up), check out this module
+https://www.npmjs.com/package/vue-button-up
 
+#down
+```
+<Vue3DownUpButton >
+    <template #down>
+          &darr;
+    </template>
+</Vue3DownUpButton>
+
+<script>
+    import Vue3DownUpButton from 'vuejs3-up-down-button'
+    
+export default {
+  components: {
+    Vue3DownUpButton
+  }
+}
+</script>
+```
+#Donate (creating code at your request out of turn)
+💰 I can do some feature for you out of turn and at a fast pace or solve your problem, give a quick answers. To do this, you can pay me one-time or make a subscription. We can discuss the details by email, it is written in my profile.
 ></content>
 ><tabTrigger>readme</tabTrigger>
 </snippet>
