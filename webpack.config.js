@@ -19,7 +19,7 @@ module.exports = {
         // specify your output directory...
         path: path.resolve(__dirname, './dist'),
         // and filename
-        filename: 'vue3-up-down-button.js'
+        filename: 'vuejs3-up-down-button.js'
     }
 }
 

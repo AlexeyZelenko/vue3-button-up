@@ -1,7 +1,7 @@
 {
-  "name": "vue3-up-down-button",
-  "version": "0.1.0",
-  "description": "Move up button for VUE3",
+  "name": "vuejs3-up-down-button",
+  "version": "1.0.3",
+  "description": "Move up-down button for VUE2-3",
   "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "zelenkooleksii75@gmail.com"
+    "url": "https://github.com/AlexeyZelenko/vue3-button-up"
   },
   "author": "zelenkooleksii75@gmail.com",
   "license": "ISC",

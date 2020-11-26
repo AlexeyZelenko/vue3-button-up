@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://www.npmjs.com/package/vue-button-up">
-      <img alt="codebeat badge" src="https://img.shields.io/badge/version-0.1.0%20-44cc11.svg" />
+      <img alt="codebeat badge" src="https://img.shields.io/badge/version-1.0.3%20-44cc11.svg" />
     </a>
     <a href="https://www.npmjs.com/package/tiptap-vuetify">
       <img alt="codebeat badge" src="https://img.shields.io/badge/license-ISC%20-44cc11.svg" />
@@ -14,12 +14,12 @@
       <img alt="codebeat badge" src="https://badgen.net/badge/code%20style/standard/f2a" />
     </a>
     <a href="https://www.npmjs.com/package/tiptap-vuetify">
-      <img alt="codebeat badge" src="https://img.shields.io/badge/size-5%20kB-44cc11.svg" />
+      <img alt="codebeat badge" src="https://img.shields.io/badge/size-15%20kB-44cc11.svg" />
     </a>
   </p>
   
   Button with the functionality of scrolling the page up for Vue.
-  [DEMO on codesanbox](https://codesandbox.io/s/vue-button-up-dcvnc)
+  [DEMO on codesanbox](https://codesandbox.io/s/vuejs3-up-down-button-s7j80?file=/src/App.vue)
   
   ## Navigation  
   <!-- TOC -->
@@ -42,7 +42,7 @@
   ## Installation
   
     ```
-     npm install --save vue-button-up
+     npm install --save vuejs3-up-down-button
     ```
 
 ## Usage
@@ -58,7 +58,7 @@
   </Vue3DownUpButton>
 
 <script>
-    import Vue3DownUpButton from 'vue3-up-down-button.js'
+    import Vue3DownUpButton from 'vuejs3-up-down-button'
     
 export default {
   components: {
@@ -83,7 +83,7 @@ export default {
   </Vue3DownUpButton>
 
 <script>
-    import Vue3DownUpButton from 'vue3-up-down-button.js'
+    import Vue3DownUpButton from 'vuejs3-up-down-button'
     
 export default {
   components: {
@@ -103,7 +103,7 @@ export default {
   </Vue3DownUpButton>
 
 <script>
-    import Vue3DownUpButton from 'vue3-up-down-button.js'
+    import Vue3DownUpButton from 'vuejs3-up-down-button'
     
 export default {
   components: {

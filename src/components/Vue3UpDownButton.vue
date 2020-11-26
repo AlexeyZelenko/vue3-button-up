@@ -15,7 +15,6 @@
 			<slot name="down"></slot>
 		</a>
 	</div>
-
 </template>
 
 <script>

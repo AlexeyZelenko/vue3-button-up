@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vue3-button-up.iml" filepath="$PROJECT_DIR$/.idea/vue3-button-up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vue3-up-down-button.iml" filepath="$PROJECT_DIR$/.idea/vue3-up-down-button.iml" />
     </modules>
   </component>
 </project>
