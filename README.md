@@ -72,13 +72,13 @@ export default {
 <Vue3DownUpButton >
     <template #top>
         <img
-            :src="require(`@/assets/img/buttonUp.png`)"
+            ...your way to the up arrow image
         >
     </template>
     <template #down>
         <img
-            :src="require(`@/assets/img/buttonDown.png`)"
-         >
+            ...your way to the down arrow image
+        >
     </template>
   </Vue3DownUpButton>
 
