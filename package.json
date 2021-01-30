@@ -1,6 +1,6 @@
 {
   "name": "vuejs3-up-down-button",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Move up-down button for VUE2-3",
   "main": "src/main.js",
   "scripts": {
